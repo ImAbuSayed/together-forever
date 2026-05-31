@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/together-forever/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Together Forever](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/together-forever/) |
+| **Get License** | [Get License For Together Forever](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/together-forever/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Lost in the glow of a warm summer moon
+> Pulling you close in the quiet of the room
+> Every little breath is a spark in the dark
+> Leaving a fire right here in my heart
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
