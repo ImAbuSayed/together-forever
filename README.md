@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/together-forever/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Together Forever](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/together-forever/) |
+| **Get License** | [Music Rights & Licensing for Together Forever](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/together-forever/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `af387149ec8e73f31d0798604867b79fc2f446aa3e815d936760dc692d192310` |
 | **Timestamp** | June 01, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
